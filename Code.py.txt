@@ -2,8 +2,8 @@ print('py')
 x = int(input())
 if x%2 == 1:
     print("odd")
-else:
+elif:
     print("even ")
 
-
+else
     print("wow")
